@@ -1,0 +1,13 @@
+mlog_loss,mstd,params
+0.27662343212036955,0.0047480537831098915,"{'max_features': 0.4, 'min_samples_split': 7, 'n_estimators': 105}"
+0.27653293839089027,0.0035531099027759413,"{'max_features': 0.4, 'min_samples_split': 7, 'n_estimators': 100}"
+0.27633677124822154,0.004642332537505717,"{'max_features': 0.4, 'min_samples_split': 7, 'n_estimators': 105}"
+0.23077266555214787,0.005015860300623449,"{'max_features': 0.4, 'min_samples_split': 6, 'n_estimators': 95}"
+0.2290777181669888,0.003631527990369178,"{'max_features': 0.4, 'min_samples_split': 6, 'n_estimators': 100}"
+0.22861691970575815,0.0041824271658178125,"{'max_features': 0.4, 'min_samples_split': 6, 'n_estimators': 105}"
+0.21874963434988684,0.0046448312086717425,"{'max_features': 0.5, 'min_samples_split': 6, 'n_estimators': 100}"
+0.2182872945266988,0.002839251559842687,"{'max_features': 0.5, 'min_samples_split': 6, 'n_estimators': 105}"
+0.17526975328824948,0.004421892074446525,"{'max_features': 0.4, 'min_samples_split': 5, 'n_estimators': 100}"
+0.17515203771148682,0.004149352293220348,"{'max_features': 0.4, 'min_samples_split': 5, 'n_estimators': 100}"
+0.1745560980497242,0.005574010265769907,"{'max_features': 0.4, 'min_samples_split': 5, 'n_estimators': 105}"
+0.17436028544634877,0.0047350012963925485,"{'max_features': 0.4, 'min_samples_split': 5, 'n_estimators': 95}"
